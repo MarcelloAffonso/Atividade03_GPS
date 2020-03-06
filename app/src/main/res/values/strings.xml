@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gps_mapas</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_gps_no_app">Sem gps não da</string>
+</resources>
